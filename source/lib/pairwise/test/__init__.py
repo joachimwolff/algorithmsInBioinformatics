@@ -1,0 +1,2 @@
+from gotohTest import GotohTestClass
+from needlemanWunschTest import NeedlemanWunschTestClass
